@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="challenge-draw-a-robot">Challenge: Draw A Robot</h1>
+<h1 id="challenge-draw-a-robot">03 Challenge: Draw A Robot</h1>
 <p>In this challenge we will draw a Robot.</p>
 <p>Copy this code carefully. Be sure to include all of the semicolons. You can stop after each command and run your sketch to see what each command draws.</p>
 <pre><code>// Robot Code
