@@ -49,6 +49,7 @@ void setup() {
 <li>Color your robot. Make each part a color. You can use <code>fill()</code> to color the inside of the shapes and <code>stroke()</code> to color the outline of a shape, or <code>noStroke()</code> for no outline.</li>
 <li>Add a comment with double slashes “<strong>//</strong>” after each color, to explain what color your code makes.</li>
 </ol>
+<p>Now that we have a robot, let’s learn how to animate it so we can make it move and do stuff!</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
