@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="drawing-shapes">Drawing Shapes</h1>
+<h1 id="drawing-shapes">02 Drawing Shapes</h1>
 <p>In our first sketch we drew a square. There are commands to help you draw lots of shapes in Processing.</p>
 <p>Each shape needs certain information to draw. Usually, the starting x and y coordinate (the top left corner of the screen is 0, 0), and the size of the object.</p>
 <p>Copy the following program to see how some of the shapes work.</p>
