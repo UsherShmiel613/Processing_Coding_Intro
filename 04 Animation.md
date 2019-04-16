@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="animation">Animation</h1>
+<h1 id="animation">04 Animation</h1>
 <h3 id="animation-1">Animation</h3>
 <p>The setup function will only run once. It basically draws the background of your project. If you want to make things change, you need a second function, the “draw” function. This will repeat over and over (every frame, something like 30 or 60 times a second). Here is an example.</p>
 <pre><code>void setup() {
