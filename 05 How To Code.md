@@ -9,7 +9,7 @@
 <h3 id="the-5-kinds-of-code">The 5 Kinds of Code</h3>
 <p>To make more awesome projects like games, we need more commands. We will learn 5 kinds of code.</p>
 <ol>
-<li><strong>Do Stuff</strong> with ** Commands**<br>
+<li><strong>Do Stuff</strong> with <strong>Commands</strong><br>
 This kind of code tells the computer to do stuff, like draw a shape or print words. (We already used some of these).</li>
 <li><strong>Remember Stuff</strong> with <strong>Variables</strong><br>
 For example, <strong>mouseX</strong> and <strong>mouseY</strong> where variables. We’ll start creating and using variables soon.</li>
