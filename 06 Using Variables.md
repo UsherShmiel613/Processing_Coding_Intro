@@ -93,6 +93,13 @@ void draw() {
   y = y + 1; // increase y by 1 each loop
 }
 </code></pre>
+<h3 id="things-to-try-2">Things To Try</h3>
+<ol>
+<li>Change the values of the x, y, and w variables.</li>
+<li>Rename the variables to a, b, and c. (Hint: if you highlight a variable and right click, you get a menu with the option to rename. This will automatically replace very time you used that variable with the new name. Otherwise, you need to change them all yourself.)</li>
+<li>Make a bulls-eye with three or more circles. Color them red, white, and black. Use variables to center the bulls-eye to the screen.</li>
+<li>Challenge: make the bulls-eye follow your mouse around the screen!</li>
+</ol>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
