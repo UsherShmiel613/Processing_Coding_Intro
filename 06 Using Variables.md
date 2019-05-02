@@ -100,6 +100,28 @@ void draw() {
 <li>Make a bulls-eye with three or more circles. Color them red, white, and black. Use variables to center the bulls-eye to the screen.</li>
 <li>Challenge: make the bulls-eye follow your mouse around the screen!</li>
 </ol>
+<h4 id="adding-text">Adding Text</h4>
+<p>You can also add words to your sketch:</p>
+<pre><code>String message = "Hello! This is fun!!!";
+
+void setup() {
+  size(800, 600);
+  background(0);
+  text(message, 300, 200);
+}
+</code></pre>
+<p>You can change the color and size of your text too!</p>
+<pre><code>String message = "Hello! This is fun!!!";
+
+void setup() {
+  size(800, 600);
+  background(255);
+  
+  textSize(32);
+  fill(255, 0, 0); // Red, Green, Blue
+  text(message, 300, 200);
+}
+</code></pre>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
