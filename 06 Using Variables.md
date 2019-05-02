@@ -71,10 +71,10 @@ void draw() {
 </ol>
 <p>There are four basic kinds of boxes you can make</p>
 <ol>
-<li>Whole numbers (integers), like 1, 42, or -15</li>
-<li>Decimal numbers (floating point), like 3.14, 15.99, or -100.4</li>
-<li>Words (a String of characters), like “hello”, or “this is fun”</li>
-<li>True/False (called a boolean), like true, or false</li>
+<li><strong>int</strong> = Whole numbers (integers), like 1, 42, or -15</li>
+<li><strong>float</strong> = Decimal numbers (floating point), like 3.14, 15.99, or -100.4</li>
+<li><strong>String</strong> = Words (a String of characters), like “hello”, or “this is fun”</li>
+<li><strong>boolean</strong> True/False (called a boolean), like true, or false</li>
 </ol>
 <p>For now, we’ll just use the first kind of box—Integers.</p>
 <p>Try this code:</p>
