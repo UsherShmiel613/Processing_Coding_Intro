@@ -13,7 +13,7 @@
   size(800, 600);
 }
 </code></pre>
-<p>Everything between the two curly braces “{  }” is one list of instructions. Each instruction needs to end with a semicolon " ; ". This is like a period for the computer—it tells the machine that one idea is finished.</p>
+<p>Everything between the two curly braces “<code>{ }</code>” is one list of instructions. Each instruction needs to end with a semicolon " <code>;</code> ". This is like a period for the computer—it tells the machine that one idea is finished.</p>
 <p>So far our instructions don’t do much.</p>
 <p>The single command we entered will create a grey window that is 800 pixels wide and 600 pixels high.</p>
 <p>Let’s change the background color to black. Add the following instruction: <code>background(0);</code> on the next line. (And don’t forger your semicolons, or the program won’t run!)</p>
@@ -43,7 +43,4 @@
 <li>Try changing the position and size of the square.</li>
 <li>What happens if you make the square’s position off the screen?</li>
 </ol>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 
