@@ -10,7 +10,7 @@
 
 <body class="stackedit">
   <div class="stackedit__html"><h1 id="repeating-stuff-with-loops">10 Repeating Stuff with Loops</h1>
-<p>Sometimes we need to repeat something over and over. We could just write the same or similar code a bunch of times. This get annoying to type and hard to change.</p>
+<p>Sometimes we need to repeat something over and over. We could just write the same or similar code a bunch of times. This (could) get(s) annoying to type and hard to change.</p>
 <p>Instead, we can tell the computer to repeat something for us!</p>
 <p>For example, if we want to make draw 500 stars in random locations, we don’t need 500+ lines of code. Instead, this code will generate 500 stars at random locations, with a random size up to 3 pixels.</p>
 <pre><code>void setup() {
