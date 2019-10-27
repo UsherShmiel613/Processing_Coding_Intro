@@ -11,7 +11,7 @@
 <body class="stackedit">
   <div class="stackedit__html"><h1 id="making-methods">08 Making Methods</h1>
 <p>As we have seen from the previous sections, we can write simple instructions for the computer, and the computer will follow these instructions line-by-line. A computer will happily continue following these instructions for 10,000 lines.</p>
-<p>However, as humans, we have trouble with long code. It become more complex, harder to understand, and harder to keep organized.</p>
+<p>However, as humans, we have trouble with long code. It becomes more complex, harder to understand, and harder to keep organized.</p>
 <p>To make things simpler for us, it is good to group code together into logical chunks. These chunks can be easier to organize, and can make a program easier to understand. One way that we do this is by writing our own methods.</p>
 <p>Creating our own functions allows us to organize our code into smaller chunks and treat complicated tasks as a single step.</p>
 <p>We can also use predefined functions that Processing calls automatically do do things like perform animations and get user input.</p>
