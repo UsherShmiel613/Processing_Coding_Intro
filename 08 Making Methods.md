@@ -49,7 +49,7 @@ void draw() {
 }
 </code></pre>
 <p>This is much easier to read and understand for us humans.</p>
-<p>We’ll we can! We just need to make our own methods with these names. Here is what this program would look like with our code organized into methods.</p>
+<p>Well we can! We just need to make our own methods with these names. Here is what this program would look like with our code organized into methods.</p>
 <pre><code>int y;
 int speed;
 
