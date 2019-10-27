@@ -112,6 +112,26 @@ void setup() {
     }
   }
 }
+
+
+int gridSize = 50;
+void setup() {
+  size(400, 400);
+  background(255);
+  for (int h = 0; h < height; h += gridSize) {
+    for (int w = 0; w < width; w += gridSize) {
+      if ((h+w) % 20 == 0) {
+        fill(255, 0, 0);
+      } else {
+        fill(0);
+      }
+      noStroke();
+      square(w, h, gridSize);
+    }
+  }
+}
+
+
 </code></pre>
 <h3 id="things-to-try">Things to Try</h3>
 <ol>
