@@ -77,7 +77,7 @@ void addMessage() {
 <h3 id="things-to-try">Things To Try</h3>
 <ol>
 <li>Change the name, age, and gender variables. Can you get the card to say “Bat Mitzvah”? Can you get it to say “birthday”?</li>
-<li>Make the card background change color depending if its for a boy or a girl.</li>
+<li>Make the card background change color depending if it's for a boy or a girl.</li>
 </ol>
 <h3 id="mouse-on-left">Mouse On Left</h3>
 <p>Let’s start by building a program to detect <strong>if</strong> the mouse if over a certain part of the screen.</p>
